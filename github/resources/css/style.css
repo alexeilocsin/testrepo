@@ -1,0 +1,10 @@
+h1 {
+  font-family: Helvetica; sans-serif;
+  font-size: 18px;
+  color: white;
+}
+
+header {
+  background-image: url(/Users/alexei/Documents/Web_Design/Codeacademy/Projects/broadway/resources/images/the-flatiron-building.png);
+  text-align: center;
+}
